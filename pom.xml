@@ -46,7 +46,16 @@
 			<artifactId>mybatis-spring-boot-starter</artifactId>
 			<version>1.3.2</version>
 		</dependency>
+		<!--视频-->
+		<dependency>
+			<groupId>ws.schild</groupId>
+			<artifactId>jave-all-deps</artifactId>
+			<version>3.0.1</version>
+		</dependency>
+
+
 	</dependencies>
+
 
 	<build>
 		<plugins>
